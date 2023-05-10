@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    padding: 10px 0;
+}
+
+h2{
+    text-align: center;
+    background-color: #f1f2f3;
+    padding: 20px 0;
+}
+h3{
+    margin-bottom: 20px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+
+.ingredients{
+    background-color: aliceblue;
+    padding: 50px;
+    margin-top: 1.5px;
+}
+
+.recipe-instructions{
+    padding: 50px;
+    background-color: #f1f2f3;
+    margin-top: 1.5px;
+}
+
+.recipe-instructions img {
+    float: left;
+    margin-right: 30px;
+    height: 230px;
+    border-radius: 100%;
+}
